@@ -1,6 +1,6 @@
 # Hey you
 
-![foxdemo](https://github.com/foxdemo/foxdemo.github.io/assets/images/avatar.png)
+![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
 
 # Happy Christmas!
 
